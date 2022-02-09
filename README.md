@@ -10,7 +10,7 @@ When borrower does not repay loan and runs away with the all loan money, that is
 > This case study gives an analysis to understand the driving factors for loan default.
 The company can utilise this results for its customer eligibilty crieteria and risk assessment. 
 
-## Objective 
+## Objective:
 > The main objective of this case study is to identify risky applicants and mark them as defaulters using EDA.
 
 ## Steps performed for Exploratory Data Analysis:
