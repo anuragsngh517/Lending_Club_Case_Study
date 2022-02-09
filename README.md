@@ -1,6 +1,6 @@
 # Lending Club Case Study
 
-> This case study will give us brief analysis of major parameters that can be responsible for customer will default loan and 
+> This case study will give us brief analysis of major parameters that can be responsible for customer will default loan or not and
 reduce the credit loss for Finance companies.
 
 ## General Information:
