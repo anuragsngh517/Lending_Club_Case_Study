@@ -1,7 +1,7 @@
 # Lending Club Case Study
 
-> This case study will give us brief analysis of customers who will be able to pay their loan and 
-reduce the money risk for Finance company.
+> This case study will give us brief analysis of major parameters that can be responsible for customer will default loan and 
+reduce the credit loss for Finance companies.
 
 ## General Information:
 > For the finance companies lending loans to risky applicants is the biggest problem.
